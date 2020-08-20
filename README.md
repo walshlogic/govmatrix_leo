@@ -1,6 +1,7 @@
 # govmatrix
 
-America&#x27;s Politics in your Hand
+
+The World&#x27;s Authoritative Source for Politics, Politicans, Elections, and Laws.
 
 ## Getting Started
 
